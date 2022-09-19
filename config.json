@@ -1,0 +1,8 @@
+{
+	"key": "{your key}", 
+	"secret": "{your secret}",
+	"url": "https://api.godaddy.com/v1/domains/{domain name}/records/{record type}/{name}",
+	"getAddrUrl": "https://api6.ipify.org/?format=json"
+}
+
+
